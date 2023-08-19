@@ -1,0 +1,1 @@
+console.log('My First DOM Manipulation with JavaScript')
